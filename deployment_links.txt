@@ -1,6 +1,6 @@
 Below are the deployment links of this Project
 
-GitHub Pages- https://deepak8260.github.io/restaurant-html-project-by-Kumar/
+GitHub Pages- https://deepak8260.github.io/Restaurant-html-project-by-Kumar/
 
 Netlify - https://kumarai-restaurant-html.netlify.app/
 
